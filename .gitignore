@@ -1,0 +1,5 @@
+__pycache__
+.env
+pretrained_faiss_index
+temp_faiss_index
+pdfs
